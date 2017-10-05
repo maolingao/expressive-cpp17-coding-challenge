@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5.1)
+cmake_minimum_required(VERSION 3.8.2)
 project(cpp17_chanllenge)
 
 include_directories(include)
