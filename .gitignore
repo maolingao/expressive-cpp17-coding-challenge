@@ -1,3 +1,12 @@
+# folder
+build/
+test/
+
+# temp files
+*~ 
+*.swp
+*.swo
+
 # Prerequisites
 *.d
 
